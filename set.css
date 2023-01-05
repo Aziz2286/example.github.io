@@ -1,0 +1,21 @@
+.info h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: monospace;
+}
+.info a #sett{
+    font-size: 40px;
+    width: 80%;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background: none;
+    color: white;
+    border: 5px solid white;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.info a #sett:hover{
+    background-color: blueviolet;
+}
